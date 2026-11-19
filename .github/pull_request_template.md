@@ -1,0 +1,1 @@
+## ¿Qué cambia?\nDescribe los cambios realizados.\n\n## ¿Por qué?\nExplica el motivo.\n\n## ¿Cómo probarlo?\n1. Indica los pasos de verificación.\n\n## Lista de verificación\n- [ ] Revisé mi propio diff\n- [ ] Probé los cambios\n- [ ] El título del PR es claro
